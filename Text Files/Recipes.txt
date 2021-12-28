@@ -1,0 +1,1 @@
+﻿[{"Name":"Expresso","DicComposition":{"Café":1,"Eau":1}},{"Name":"Allongé","DicComposition":{"Café":1,"Eau":2}},{"Name":"Capuccino","DicComposition":{"Café":1,"Chocolat":1,"Eau":1,"Crème":1}},{"Name":"Chocolat","DicComposition":{"Chocolat":3,"Lait":2,"Eau":1,"Sucre":1}},{"Name":"The","DicComposition":{"Thé":1,"Eau":2}}]
